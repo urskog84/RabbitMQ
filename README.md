@@ -1,4 +1,6 @@
-# Send message with Curl to Vhost awx
+# RabbitMQ
+
+## Send message with Curl to Vhost awx
 
 ```bach
 curl -u smax:wVuadmdlt4ShBxMvMqHLmBN0sB8wgXDD -H "content-type:application/json" -X POST -d'{
@@ -10,7 +12,7 @@ curl -u smax:wVuadmdlt4ShBxMvMqHLmBN0sB8wgXDD -H "content-type:application/json"
 
 ```
 
-# craete queues in awx vhost
+## craete queues in awx vhost
 
 ```bach
 
@@ -19,6 +21,6 @@ curl -i -u default_user_xeAtZ3fNuxwSWuKr0DQ:wVuadmdlt4ShBxMvMqHLmBN0sB8wgXDD -H 
 http://localhost:15672/api/queues/awx/hello_1
 ```
 
-# Durable
+## Durable
 
 Set message delivery mode to persistent
