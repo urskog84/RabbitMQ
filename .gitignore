@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@urskog84 
-Branch master was renamed to main.
-github
-/
-gitignore
-Public
-3.2k
-127k70.8k
-Code
-Pull requests
-240
-Actions
-Security
-Insights
-gitignore/Python.gitignore
-@BrianMSheldon
-BrianMSheldon Add JetBrains note for PyCharm to Python.gitignore
-…
-Latest commit 22f1ff9 on 24 Jun 2020
- History
- 84 contributors
-@arcresu@shiftkey@Lucretiel@Harrison-G@jwg4@GabrielC101@misaelnieto@pmsosa@svkampen@vltr@thedrow@matheussl
-145 lines (118 sloc)  2.36 KB
-  
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -174,15 +143,3 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
